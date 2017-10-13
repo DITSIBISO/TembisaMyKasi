@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+<string-array name="places">
+
+        <item>Rabie Ridge Beer Garden </item>
+        <item>MoritingPark Tembisa</item>
+        <item>Mehlareng Stadium Tembisa</item>
+        <item>Hospital View</item>
+        <item>MasaGarden Resesa Tembisa</item>
+        <item>Duma GroundTembisa</item>
+    </string-array>
+
+
+
+    <string-array name="resturantspubs">
+            <item>Steers in Tembisa </item>
+            <item>KFC in phumulani Mall</item>
+            <item>Deboneirs Piza in Tembisa</item>
+            <item>Kota Pplace in Tembisa</item>
+            <item>MacDonals</item>
+            <item>Shisanyama in Tembisa</item>
+            <item>Fish n Chips</item>
+            <item>Caprivi in Tembisa</item>
+            <item>Busy Corner Tembisa</item>
+            <item>Deboniers Tembisa</item>
+            <item>Fish n Chips</item>
+            <item>Kota Place Tembisa</item>
+            <item>Steers in Tembisa</item>
+            <item>KFC</item>
+            <item>Deboniers Tembisa</item>
+            <item>Kota Place Tembisa</item>
+            <item>MacDonals</item>
+            <item>Shisanyama in Tembisa</item>
+        </string-array>
+
+    <string-array name="ziwaphi">
+        <item>Mehlareng Stadium</item>
+        <item>MoritingPark Tembisa</item>
+        <item>Mehlareng Stadium Tembisa</item>
+        <item>Imbizo Busy Corner Tembisa</item>
+        <item>Caprive Tembisa</item>
+        <item>shisanyama Tembisa</item>
+
+    </string-array>
+
+    <string-array name="ziwaphi_desc">
+        <item>Mehlareng Stadium One Man Show by DJ Shimza</item>
+    <item>Phomolong Park Kids Picnic and Fun</item>
+
+        <item>Rabie Rige Beer Garden</item>
+        <item>Gatalenna Moyeng Section</item>
+        <item> Spring Colour FESTIVE MASA GARDEN
+        </item>
+        <item>HospitalView </item>
+        <item>MEHLKARENG STADIUM SHOW YOUR lEGS</item>
+        <item>Moriting Stadium Spring Taboo</item>
+        <item>Moses MolelekwaArt Centre Tembisa Wine Festival</item>
+        <item>Mashemong Gateway Resort Bakgatla Together Family Fun</item>
+        <item>Soul Defanation and White House Lounge at Temong Section Tembisa</item>
+        <item>Moriting Park Annual DJ FESTIVAL</item>
+        <item>Mehlareng Stadium</item>
+    </string-array>
+
+    <string-array name="ziwaphi_locations">
+        <item>Mehlareng Stadium One Man Show by DJ Shimza</item>
+        <item>Phomolong Park Kids Picnic and Fun</item>
+
+        <item>Rabie Rige Beer Garden</item>
+        <item>Gatalenna Moyeng Section</item>
+        <item> Spring Colour FESTIVE MASA GARDEN
+        </item>
+        <item>HospitalView </item>
+        <item>MEHLKARENG STADIUM SHOW YOUR lEGS</item>
+        <item>Moriting Stadium Spring Taboo</item>
+        <item>Moses MolelekwaArt Centre Tembisa Wine Festival</item>
+        <item>Mashemong Gateway Resort Bakgatla Together Family Fun</item>
+        <item>Soul Defanation and White House Lounge at Temong Section Tembisa</item>
+        <item>Moriting Park Annual DJ FESTIVAL</item>
+        <item>Mehlareng Stadium</item>
+    </string-array>
+
+    <string-array name="resturantspubs_desc">
+        <item>Steers in Tembisa </item>
+        <item>Phomolong Park Kids Picnic and Fun</item>
+
+        <item>Rabie Rige Beer Garden</item>
+        <item>Gatalenna Moyeng Section</item>
+        <item> Spring Colour FESTIVE MASA GARDEN
+        </item>
+        <item>HospitalView </item>
+        <item>MEHLKARENG STADIUM SHOW YOUR lEGS</item>
+        <item>Moriting Stadium Spring Taboo</item>
+        <item>Moses MolelekwaArt Centre Tembisa Wine Festival</item>
+        <item>Mashemong Gateway Resort Bakgatla Together Family Fun</item>
+        <item>Soul Defanation and White House Lounge at Temong Section Tembisa</item>
+        <item>Moriting Park Annual DJ FESTIVAL</item>
+        <item>Mehlareng Stadium</item>
+    </string-array>
+    <string-array name="place__desc">
+        <item>Phomolong park kids picnic and fun day
+        </item>
+        <item>shisanyama in tembisa place of fun</item>
+        <item>Moriting Park a place for events ,picnic and events find in tembisa</item>
+        <item>Mehlareng Stadium is a multi-sports venue located in Tembisa used foe soccre ands events.
+        </item>
+        <item>Imbizo Shisanyama Busy Corner offers a wide variety of premium services for social and corporate dining,is found in Tembisa </item>
+        <item>Caprivi popular and the most sought-after spot in the township, to become a powerful brand.</item>
+    </string-array>
+
+   <string-array name="resturantspubs_details">
+    <item>Steers is South Africa’s leading burger brand and has served
+        South Africans its legendary 100% pure beef, flame-grilled burgers
+        and freshly cut chips for almost 60 years. Steers has won the Leisure
+        Options Award for the Best Burger for the 18 years running, and Best Chips
+        for 14 years running. Steers’ success is due in part to its extensive network
+        of over 560 local restaurants, its growing African footprint of 46 restaurants,
+        operating in countries such as Nigeria, Mauritius and Zambia to name a few,
+        and its broader international market footprint of 7 restaurants. Steers’
+        track record proves that flame-grilled just tastes better.
+</item>
+
+       <item>KFC in phumulani Mall</item>
+       <item>Deboneirs Piza in Tembisa</item>
+       <item>Kota Pplace in Tembisa</item>
+       <item>MacDonals</item>
+       <item>Shisanyama in Tembisa</item>
+       <item>Fish n Chips</item>
+       <item>Caprivi in Tembisa</item>
+       <item>Busy Corner Tembisa</item>
+       <item>Deboniers Tembisa</item>
+       <item>Fish n Chips</item>
+       <item>Kota Place Tembisa</item>
+       <item>Steers in Tembisa</item>
+       <item>KFC</item>
+       <item>Deboniers Tembisa</item>
+       <item>Kota Place Tembisa</item>
+       <item>MacDonals</item>
+       <item>Shisanyama in Tembisa</item>
+
+   </string-array>
+
+    <string-array name="ziwaphi_details">
+    <item>DJ Shimza presents the 8th annual One Man Show in Gauteng
+        at Mehlareng Stadium in
+        Tembisa, City of Ekurhuleni on the 25th of December 2016.
+Now in its eighth year running, expect a night filled with
+        good music, great people and an electric atmosphere!
+        As always, there will be world class entertainment and
+        surprise performances to keep you entertained throughout
+        the night! After last year`s successful event, we are all asking,
+        how will DJ Shimza outdo himself this time!</item>
+
+        <item>Phomolong Park Kids Picnic and Fun</item>
+
+        <item>Rabie Rige Beer Garden</item>
+        <item>Gatalenna Moyeng Section</item>
+        <item> Spring Colour FESTIVE MASA GARDEN
+        </item>
+        <item>HospitalView </item>
+        <item>MEHLKARENG STADIUM SHOW YOUR lEGS</item>
+        <item>Moriting Stadium Spring Taboo</item>
+        <item>Moses MolelekwaArt Centre Tembisa Wine Festival</item>
+        <item>Mashemong Gateway Resort Bakgatla Together Family Fun</item>
+        <item>Soul Defanation and White House Lounge at Temong Section Tembisa</item>
+        <item>Moriting Park Annual DJ FESTIVAL</item>
+        <item>Mehlareng Stadium</item>
+
+    </string-array>
+<string-array name="place_details">
+        <item>Founded in 1997 Imbizo Shisanyama Busy Corner is
+            South Africa’s most acclaimed African cuisine restaurant
+            that celebrates the authentic African culture and heritage.
+            At Imbizo Shisanyama Busy Corner you will have the opportunity to
+            enjoy Africa’s Ultimate Braai Experience, at a restaurant that has
+            earned an enviable reputation over the past 18 years for its
+            delicious authentic African cuisine, quality service and a culture
+            that emanates the true African identity..
+        </item>
+    <item>Rabie Ridge Beer Garden </item>
+    <item>MoritingPark Tembisa</item>
+    <item>Mehlareng Stadium Tembisa</item>
+    <item>Hospital View</item>
+    <item>MasaGarden Resesa Tembisa</item>
+    <item>Duma GroundTembisa</item>
+
+
+</string-array>
+<string-array name="place_locations">
+    <item>Rabie Ridge Beer Garden </item>
+    <item>MoritingPark Tembisa</item>
+    <item>Mehlareng Stadium Tembisa</item>
+    <item>Hospital View</item>
+    <item>MasaGarden Resesa Tembisa</item>
+    <item>Duma GroundTembisa</item>
+</string-array>
+    <string-array name="resturantspubs_locations">
+        <item>Steers in Tembisa </item>
+        <item>KFC in phumulani Mall</item>
+        <item>Deboneirs Piza in Tembisa</item>
+        <item>Kota Pplace in Tembisa</item>
+        <item>MacDonals</item>
+        <item>Shisanyama in Tembisa</item>
+        <item>Fish n Chips</item>
+        <item>Caprivi in Tembisa</item>
+        <item>Busy Corner Tembisa</item>
+        <item>Deboniers Tembisa</item>
+        <item>Fish n Chips</item>
+        <item>Kota Place Tembisa</item>
+        <item>Steers in Tembisa</item>
+        <item>KFC</item>
+        <item>Deboniers Tembisa</item>
+        <item>Kota Place Tembisa</item>
+        <item>MacDonals</item>
+        <item>Shisanyama in Tembisa</item>
+    </string-array>
+
+
+    <array name="place_avator">
+    <item>@drawable/eventttt</item>
+    <item>@drawable/eventses</item>
+    <item>@drawable/eventsddd</item>
+    <item>@drawable/eventt</item>
+    <item>@drawable/phomolong</item>
+    <item>@drawable/midrand</item>
+</array>
+
+    <array name="resturantspubs_avator">
+        <item>@drawable/steers</item>
+        <item>@drawable/kfcc</item>
+        <item>@drawable/pizza</item>
+        <item>@drawable/kotaplace</item>
+        <item>@drawable/mocdooo</item>
+        <item>@drawable/sish</item>
+    </array>
+
+<array name="places_picture">
+    <item>@drawable/event</item>
+    <item>@drawable/phomolong</item>
+    <item>@drawable/midrand</item>
+    <item>@drawable/eventttt</item>
+    <item>@drawable/evented</item>
+    <item>@drawable/eventses</item>
+</array>
+    <array name="resturantspubs_picture">
+        <item>@drawable/steers</item>
+        <item>@drawable/kfcc</item>
+        <item>@drawable/pizza</item>
+        <item>@drawable/kotaplace</item>
+        <item>@drawable/mocdooo</item>
+        <item>@drawable/sish</item>
+        <item>@drawable/fishchip</item>
+        <item>@drawable/cap</item>
+        <item>@drawable/aa</item>
+        <item>@drawable/debopiza</item>
+        <item>@drawable/fishcp</item>
+        <item>@drawable/kotaplace</item>
+    </array>
+
+    <array name="ziwaphi_picture">
+        <item>@drawable/shimza</item>
+        <item>@drawable/phomolong</item>
+        <item>@drawable/midrand</item>
+        <item>@drawable/eventttt</item>
+        <item>@drawable/evented</item>
+        <item>@drawable/eventses</item>
+        <item>@drawable/showlegs</item>
+        <item>@drawable/spring</item>
+        <item>@drawable/eventt</item>
+        <item>@drawable/events</item>
+        <item>@drawable/eventsddd</item>
+        <item>@drawable/temong</item>
+        <item>@drawable/moritinggg</item>
+
+    </array>
+
+    <array name="ziwaphi_avator">
+        <item>@drawable/shimza</item>
+        <item>@drawable/phomolong</item>
+        <item>@drawable/midrand</item>
+        <item>@drawable/eventttt</item>
+        <item>@drawable/evented</item>
+        <item>@drawable/eventses</item>
+        <item>@drawable/showlegs</item>
+        <item>@drawable/spring</item>
+        <item>@drawable/eventt</item>
+        <item>@drawable/events</item>
+        <item>@drawable/eventsddd</item>
+        <item>@drawable/temong</item>
+        <item>@drawable/moritinggg</item>
+
+    </array>
+</resources>
